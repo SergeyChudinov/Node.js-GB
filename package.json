@@ -1,0 +1,26 @@
+{
+  "name": "node.js-gb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyChudinov/Node.js-GB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyChudinov/Node.js-GB/issues"
+  },
+  "homepage": "https://github.com/SergeyChudinov/Node.js-GB#readme",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "colors": "^1.4.0"
+  }
+}
