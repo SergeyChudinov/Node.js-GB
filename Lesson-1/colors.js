@@ -24,5 +24,5 @@ rl.on('line', (input) => {
     console.log(`Received: ${input}`);
     if(input === 'exit') {
         rl.close();
-    }
+    }                                                                               
 });
